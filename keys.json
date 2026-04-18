@@ -1,3 +1,12 @@
 {
-    "keys": {}
+    "9476d7639cf7e821": {
+        "active": true,
+        "user": null,
+        "key_public": "1DH4F-RS7UN-POX88",
+        "created": "2026-04-18T22:47:01.688927",
+        "expires": "2027-04-18T22:47:01.688963",
+        "max_activations": 1,
+        "activations": [],
+        "bound_hwid": null
+    }
 }
