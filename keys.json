@@ -4,8 +4,8 @@
             "active": true,
             "user": "Иван Петров",
             "key_public": "ABC123-XYZ789",
-            "created": "2024-01-15T00:00:00",
-            "expires": "2025-01-15T00:00:00",
+            "created": "2026-04-18T022:21:00",
+            "expires": "2027-04-18T022:21:00",
             "max_activations": 1,
             "activations": [],
             "bound_hwid": null
