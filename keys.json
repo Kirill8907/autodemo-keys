@@ -1,14 +1,3 @@
 {
-    "keys": {
-        "a953250a3736c3ee": {
-            "active": true,
-            "user": null,
-            "key_public": "ABC123-XYZ789",
-            "created": "2026-04-18T02:21:00",
-            "expires": "2027-04-18T02:21:00",
-            "max_activations": 1,
-            "activations": [],
-            "bound_hwid": null
-        }
-    }
+    "keys": {}
 }
