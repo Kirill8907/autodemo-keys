@@ -1,11 +1,11 @@
 {
     "keys": {
-        "<md5_16_hash>": {
+        "3113bf883488920f": {
             "active": true,
             "user": null,
-            "key_public": "XXXXX-YYYYY-ZZZZZ",
-            "created": "2025-01-01T00:00:00",
-            "expires": "2026-01-01T00:00:00",
+            "key_public": "AEC5Y-OAMX6-YR1ZG",
+            "created": "2026-04-20T23:10:45.832860",
+            "expires": "2027-04-20T23:10:45.832860",
             "max_activations": 1,
             "activations": [],
             "bound_hwid": null
